@@ -1,2 +1,4 @@
 # Fraud-Detection
 Bank fraud detection systems are essential for safeguarding financial institutions and their customers from financial losses and reputational damage. By leveraging advanced machine learning techniques and real-time data processing, banks can effectively identify and prevent fraudulent activities.
+
+"My data size was too large, so I divided it into two parts: Data 1 and Data 2"
